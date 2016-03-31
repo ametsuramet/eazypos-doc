@@ -44,3 +44,7 @@ Merupakan biaya (pengorbanan) yang terjadi untuk memperoleh pendapatan.
 ## Laporan Keuangan
 
 ## Laporan Penjualan
+
+
+
+For full documentation visit [raw](raw.html).
