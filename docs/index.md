@@ -41,10 +41,22 @@ Merupakan biaya (pengorbanan) yang terjadi untuk memperoleh pendapatan.
 
 ## User Management
 
+**User management** dalam EAZY POS memungkinkan anda mengatur siapa saja yang dapat mengakses program dengan Role(peran) yang berbeda-beda, EAZY POS dapat memisahkan user menjadi beberapa role seperti Admin, Kasir, Gudang dan Keuangan.
+
+- **Admin** : user yang mempunyai hak akses ke semua Feature.
+- **Kasir** : user yang hanya mempunyai akses ke halaman Point of Sales.
+- **Gudang** : user yang hanya mempunyai akses ke halaman Produk dan Sirkulasi.
+- **Keuangan** : user yang hanya mempunyai akses ke halaman Akun dan Transaksi.
+
 ## Laporan Keuangan
 
-## Laporan Penjualan
+Laporan keuangan dalam sebuah usaha merupakan dokumen penting yang menentukan perkembangan sebuah usaha, terkadang dokumen ini diabaikan oleh beberapa pengusaha yang masih mempunyai pola fikir sederhana, selain memerlukan tenaga ahli dibidang akuntansi pembuatan laporan tersebut memerlukan ketelitian tinggi dan waktu yang tidak sedikit.
+
+**EAZY POS** membantu anda dalam menyiapkan laporan sederhana yang dapat dijadikan acuan dalam menganalisis perkembangan usaha anda, dilengkapi dengan grafik sehingga gambaran dalam menentukan kebijakan usaha anda menjadi lebih jelas.
+
+## Laporan Order
+
+Seperti halnya laporan keuangan, laporan order yang masuk melalui Point of Sales diperlukan, agar anda dapat jelas melihat omset usaha anda, baik harian, bulanan maupun tahunan.
 
 
-
-For full documentation visit [raw](raw.html).
+## Untuk Tutorial [klik disini](tutorial.html).
